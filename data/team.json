@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"muthu",
+        "gender":"male",
+        "hobbies":["cricket","football"]
+    },
+    
+    {
+        "id":2,
+        "name":"kumaran",
+        "gender":"male",
+        "hobbies":["cricket","football"]
+
+
+    },
+    {
+        "id":2,
+        "name":"mukesh",
+        "gender":"male",
+        "hobbies":["cricket","football"],
+        "parent":{
+            "dad":"Raman",
+            "Mom":"Raman"
+        }
+
+        
+    }
+]

@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.member-list{
+    @apply bg-white shadow p-5 my-5 rounded bg-blue-200
+}
